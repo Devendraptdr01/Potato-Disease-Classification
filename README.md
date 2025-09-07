@@ -1,6 +1,5 @@
 # Potato Disease Classification using Deep Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11s-kBquKT-ZiZwVMxR3KxuMKoUf6-ynd?usp=sharing)
 
 **Introduction**
 
@@ -59,7 +58,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Potato-Disease-Classification-using-Deep-Learning.git```
+1. Clone the repository: 
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run app.py```
 4. Access the app in your browser at ```http://localhost:8501```
@@ -96,35 +95,11 @@ To use this project, follow these steps:
    - Following the completion of model training and evaluation, the trained model is saved to enable seamless deployment and inference on new images for classification purposes. To facilitate this process, a user-friendly Streamlit application is developed and deployed on the Hugging Face platform. 
    - This application empowers users to upload new images and obtain real-time classification results, providing a convenient interface for leveraging the model's capabilities in practical scenarios.
 
-<br />
 
-🎬 **Project Demo Video:** [https://youtu.be/XM7sg99a5no](https://youtu.be/XM7sg99a5no)
-
-🚀 **Application:** [https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification](https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification)
-
-<br />
-
-![](https://github.com/gopiashokan/Potato-Disease-Classification-using-Deep-Learning/blob/main/image/Inference_image_output.JPG)
-
-<br />
 
 **Contributing**
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-<br />
 
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-<br />
-
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
