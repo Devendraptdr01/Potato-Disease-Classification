@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit config (optional, you can keep if needed)
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
